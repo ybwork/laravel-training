@@ -1,0 +1,546 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.portfolio-kaduk.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1998                
+POS_TIME 2657                
+POS_VISITOR 9644                
+POS_DAY 12024               
+POS_DOMAIN 3373                
+POS_LOGIN 3605                
+POS_ROBOT 3760                
+POS_WORMS 4214                
+POS_EMAILSENDER 4345                
+POS_EMAILRECEIVER 4488                
+POS_SESSION 12628               
+POS_SIDER 12824               
+POS_FILETYPES 4623                
+POS_DOWNLOADS 4841                
+POS_OS 4910                
+POS_BROWSER 5057                
+POS_SCREENSIZE 5670                
+POS_UNKNOWNREFERER 5744                
+POS_UNKNOWNREFERERBROWSER 6172                
+POS_ORIGIN 6323                
+POS_SEREFERRALS 6463                
+POS_PAGEREFS 6618                
+POS_SEARCHWORDS 7665                
+POS_KEYWORDS 7961                
+POS_MISC 2320                
+POS_ERRORS 8164                
+POS_CLUSTER 3461                
+POS_SIDER_404 8305                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201010830 1 0 7813230838196
+FirstTime 0
+LastTime 20161130232006
+LastUpdate 20161201020330 1 0 0 0 0
+TotalVisits 92                  
+TotalUnique 60                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 60                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 99 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 6519 9 10 22890
+1 3 3 6519 9 10 29821
+2 6 9 105434 11 13 61207
+3 2 2 4346 14 17 47059
+4 4 7 100258 2 4 41848
+5 3 3 6519 4 4 41848
+6 1 1 2173 1 1 2848
+7 3 3 6519 7 10 76361
+8 0 0 0 6 9 37905
+9 8 11 115181 3 8 34438
+10 0 0 0 0 0 0
+11 6 23 798465 5 7 31438
+12 1 1 2173 9 11 77183
+13 2 2 4346 0 0 0
+14 9 32 987124 11 24 70118
+15 11 40 1280903 12 21 123546
+16 15 104 1690204 46 94 137552
+17 39 54 1863108 35 53 206487
+18 8 11 433870 10 11 38137
+19 384 930 10568014 791 823 826509
+20 24 30 578032 19 22 94001
+21 41 49 406852 25 31 93294
+22 3 4 303336 11 12 30657
+23 3 23 141369 9 11 52013
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 579 1345 19411264
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 13 35388 20161124185447 1
+[\s_+:,\.\;\/\\-]bot 8 24523 20161105034148 1
+yandex 6 144 20161124072511 6
+no_user_agent 4 6543 20161123110724 1
+favicon 3 20481 20161104111626 0
+java\/[0-9] 2 4729 20161116205907 0
+core 1 2173 20161110175905 0
+googlebot 1 2173 20161130210650 0
+unknown 1 0 20161130030727 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+map 317 891982 0 0
+css 93 2721964 0 0
+png 32 4285645 0 0
+html 192 351902 0 0
+js 629 10359126 0 0
+jpg 12 500859 0 0
+Unknown 66 258499 0 0
+json 4 41287 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 10 0 216
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+linuxandroid 1
+winxp 20
+winlong 4
+winnt 46
+linuxubuntu 1
+linux 464
+winvista 1
+win7 780
+macosx 6
+Unknown 22
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 33
+msie6.0 6
+chrome48.0.2564.116 2
+firefox4.0 1
+firefox49.0 44
+firefox34.0 1
+curl 1
+firefox3.6.26 1
+opera9.80 2
+chrome14.0.825.0 1
+msie7.0 3
+chrome34.0.1847.116 1
+chrome37.0.2062.120 10
+chrome27.0.1453 122
+chrome43.0.2357.93 1
+safari8.0 1
+chrome49.0.2623.112 1
+Unknown 18
+chrome41.0.2224.3 2
+firefox3.5.6 1
+chrome30.0.1599.17 1
+chrome53.0.2785.143 333
+chrome41.0.2226.0 2
+chrome54.0.2840.99 652
+chrome43.0.2357.132 1
+chrome41.0.2227.1 1
+chrome54.0.2840.71 124
+mozilla 1
+netscape5.0 3
+chrome48.0.2564.109 1
+firefox22.0 1
+firefox3.6.3 3
+firefox 2
+chrome17.0.963.12 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0 20161121003213
+Go-http-client/1.1 20161101200550
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20161121174454
+GuzzleHttp/6.1.0_curl/7.35.0_PHP/5.5.9-1ubuntu4.14 20161122113852
+Opera/9.80_(Series_60;_Opera_Mini/6.5.27324/26.1424;_U;_ru)_Presto/2.8.119_Version/10.54 20161104142706
+Go_1.1_package_http 20161130182634
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20161101200550
+Go_1.1_package_http 20161130182634
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 419 419
+From1 0 0
+From2 3 3
+From3 110 840
+From4 47 83
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 20
+http://payment-forms.portfolio-kaduk.ru 37 259
+http://auth.portfolio-kaduk.ru 15 51
+http://morning.portfolio-kaduk.ru 9 60
+http://payment-forms.portfolio-kaduk.ru/form-validation 8 165
+http://work-book.portfolio-kaduk.ru 6 50
+http://auth.portfolio-kaduk.ru/login 5 5
+http://pizza-tycoon.com 5 5
+http://burger-imperia.com 5 5
+http://auth.portfolio-kaduk.ru/register 5 5
+http://team-story.portfolio-kaduk.ru 5 114
+http://notephotographer.portfolio-kaduk.ru 0 3
+http://payment-forms.portfolio-kaduk.ru/index.html 2 8
+http://bubatuba.ru 2 2
+http://payment-forms.portfolio-kaduk.ru/form-nested 0 48
+http://team-story.portfolio-kaduk.ru/team/3 0 3
+http://payment-forms.portfolio-kaduk.ru/form-controls 2 50
+http://team-story.portfolio-kaduk.ru/form-validation 2 2
+http://deadviser.ruportfolio-kaduk.ru 1 1
+http://notesphotographer.portfolio-kaduk.ru 0 3
+http://auth.portfolio-kaduk.ru/password/reset 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+\xd0\x9f\xd0\xa0\xd0\x9e\xd0\x94\xd0\x90\xd0\x9c-\xd0\x91\xd0\x90\xd0\x97\xd0\xa3-\xd0\xa1\xd0\x90\xd0\x99\xd0\xa2\xd0\x90-portfolio-kaduk.ru 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+\xd0\x9f\xd0\xa0\xd0\x9e\xd0\x94\xd0\x90\xd0\x9c-\xd0\x91\xd0\x90\xd0\x97\xd0\xa3-\xd0\xa1\xd0\x90\xd0\x99\xd0\xa2\xd0\x90-portfolio-kaduk.ru 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 2 5784
+302 720 238184
+500 99 211866
+404 234 1131440
+301 3 992
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 40
+/sitemap.xml 1 -
+/ 4 -
+/robots.txt 1 -
+/form-controls/fdgsdfg 1 -
+/form-controls 20 -
+/user 1 http://PORTFOLIO-KADUK.RU/user
+/admin.php 5 -
+/web/wp-login.php 4 -
+/test/wp-login.php 8 -
+/team/3 2 -
+/wordpress/wp-login.php 7 -
+/form-validation/sdfdf 1 -
+/blog/xmlrpc.php 1 -
+/wp-admin/admin-ajax.php 2 -
+/blogs/wp-login.php 5 -
+/new/wp-login.php 7 -
+/bikeshop/models 1 -
+/en/wp-login.php 6 -
+/blog 1 -
+/xmlrpc.php 1 -
+/form-validation 52 -
+/main/ico/favicon.png 13 http://portfolio-kaduk.ru/
+/backend/guest/index 3 https://www.google.com
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 3 -
+/wp/wp-login.php 7 -
+/form-nested/dfdf 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/form-nested 10 -
+/administrator/index.php 5 -
+/cms/wp-login.php 5 -
+/form-validation/ 1 -
+/happy-man-icon-64-185948.png 13 http://portfolio-kaduk.ru/
+/main/wp-login.php 4 -
+/blog/wp-login.php 5 -
+/home/wp-login.php 4 -
+/bikeshop/images/s1.jpg 1 -
+/news/wp-login.php 6 -
+/wp-login.php 14 -
+/form-controls/%20dfdfdf 1 -
+/site/wp-login.php 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 60
+178.76.228.25 354 767 10929352 20161129214041
+178.76.228.165 109 336 5402271 20161129193931
+27.125.145.150 24 27 173837 20161108215107
+219.91.213.90 6 12 846010 20161114191805
+62.109.26.168 5 5 10865 20161128231449
+185.130.207.239 4 4 8692 20161130053722
+66.102.9.62 4 41 170260 20161130161911
+148.251.1.147 3 3 6519 20161126153201
+91.189.112.7 3 3 6519 20161129173437
+85.14.250.137 3 3 6519 20161118185825
+66.102.9.43 2 9 185067 20161104111809
+54.196.126.106 1 1 2173 20161124073840
+82.146.58.161 1 1 2173 20161120191043
+104.45.18.178 1 1 2408 20161115193901
+171.25.193.77 1 1 2173 20161117160441
+66.102.9.39 1 7 554283 20161104111809
+54.162.96.252 1 1 2173 20161116153857
+115.64.55.237 2 5 95912 20161119043053
+171.25.193.25 1 1 2173 20161121132734
+178.162.214.204 1 1 2173 20161127214710
+134.249.159.113 1 1 2173 20161121040924
+54.81.25.203 1 1 2173 20161102121608
+78.107.237.16 1 1 2173 20161115054405
+195.211.23.206 1 1 2173 20161121174454
+5.18.201.215 1 1 2173 20161104114125
+91.107.109.169 1 1 2173 20161101200550
+92.63.99.19 1 1 2173 20161130182634
+5.167.50.30 2 2 2173 20161109151053
+79.140.159.85 1 1 2173 20161127071739
+94.242.246.24 1 1 2173 20161119175422
+85.25.103.119 1 1 2173 20161116173703
+52.8.59.90 2 2 4729 20161116205907
+5.61.32.58 1 1 2173 20161124025515
+94.154.91.204 1 1 2173 20161107195556
+212.158.166.220 2 2 4346 20161117031123
+82.146.62.80 2 2 4346 20161112000852
+188.163.79.54 1 1 2173 20161107025652
+37.46.128.41 2 2 4346 20161124214821
+82.146.57.90 2 2 4346 20161123200526
+92.63.99.123 2 2 4346 20161114222228
+195.20.200.234 1 1 2173 20161104150503
+188.163.79.29 1 1 0 20161113211153
+165.231.0.242 1 1 2173 20161117013605
+148.251.48.178 1 1 2173 20161122113852
+83.149.25.67 3 3 6519 20161101201715
+93.115.95.206 1 1 2173 20161114062157
+171.25.193.131 1 1 2173 20161117133809
+66.102.9.37 1 28 76348 20161130161911
+176.126.252.12 1 1 2173 20161112195506
+23.101.61.176 1 1 1193 20161129191427
+5.9.150.246 1 1 2173 20161101234603
+195.154.184.40 1 1 2173 20161109095944
+217.197.224.142 1 1 2173 20161121003213
+123.201.57.57 2 5 418274 20161116220002
+85.248.227.165 1 1 2173 20161121011837
+66.102.9.41 1 5 54769 20161104111808
+193.124.113.204 1 1 2173 20161130030721
+66.102.9.34 2 32 355306 20161130232006
+159.122.131.5 1 1 2173 20161129210331
+82.146.58.176 2 2 4346 20161116161554
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20161101 10 30 898227 4
+20161102 3 3 6519 3
+20161104 7 24 800638 6
+20161105 1 1 2173 1
+20161107 2 2 4346 2
+20161108 46 78 1504021 5
+20161109 11 14 119527 4
+20161112 2 2 4346 2
+20161113 2 2 2173 2
+20161114 46 79 3825977 7
+20161115 2 2 4581 2
+20161116 8 17 933987 7
+20161117 8 11 108454 6
+20161118 5 8 103261 3
+20161119 4 7 100258 3
+20161120 1 1 2173 1
+20161121 6 9 104108 6
+20161122 2 2 4346 2
+20161123 2 5 95416 2
+20161124 3 3 6519 3
+20161126 3 3 6519 3
+20161127 3 3 6519 3
+20161128 1 1 2173 1
+20161129 390 933 10154397 7
+20161130 11 105 610606 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+5mn-15mn 5
+0s-30s 79
+2mn-5mn 1
+15mn-30mn 3
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 100
+/ 123 266829 82 74
+/app/app.component.html 24 2684 1 0
+/app/app.component.js.map 19 5836 0 0
+/app/app.module.js.map 19 14280 0 0
+/app/app-routing.module.js.map 19 14164 0 0
+/app/forms/form-nested/address.component.js.map 18 6858 0 0
+/app/forms/form-validation/form-validation.component.js.map 18 63828 0 0
+/app/forms/form-nested/form-nested.component.js.map 18 22410 0 0
+/app/nav/nav.component.js.map 18 6102 0 0
+/app/forms/form-controls/form-controls.component.js.map 18 29394 0 0
+/node_modules/rxjs/observable/ArrayLikeObservable.js.map 3 6132 0 0
+/app/tasks/task-form/task-form.component.html 1 409 0 0
+/node_modules/rxjs/symbol/iterator.js.map 2 2526 0 0
+/node_modules/core-js/client/shim.min.js.map 3 412572 0 0
+/node_modules/rxjs/util/UnsubscriptionError.js.map 3 2109 0 0
+/node_modules/rxjs/util/ObjectUnsubscribedError.js.map 3 1377 0 0
+/node_modules/rxjs/scheduler/Action.js.map 1 429 0 0
+/node_modules/rxjs/util/isFunction.js.map 3 624 0 0
+/node_modules/rxjs/operator/toPromise.js.map 3 2844 0 0
+/places 3 12018 0 0
+/node_modules/rxjs/observable/from.js.map 2 354 0 0
+/node_modules/rxjs/InnerSubscriber.js.map 3 2481 0 0
+/node_modules/rxjs/operator/reduce.js.map 3 5460 0 0
+/node_modules/rxjs/observable/fromPromise.js.map 2 386 0 0
+/player/4/edit 3 7453 0 0
+/node_modules/rxjs/observable/IteratorObservable.js.map 3 13590 0 0
+/node_modules/rxjs/Subscription.js.map 3 10605 0 0
+/node_modules/rxjs/symbol/rxSubscriber.js.map 2 652 0 0
+/node_modules/rxjs/util/tryCatch.js.map 3 1470 0 0
+/node_modules/rxjs/operator/mergeMap.js.map 3 10485 0 0
+/node_modules/rxjs/observable/ErrorObservable.js.map 1 993 0 0
+/node_modules/rxjs/observable/of.js.map 2 346 0 1
+/node_modules/rxjs/util/isScheduler.js.map 3 690 0 0
+/password/reset 1 3468 0 0
+/node_modules/rxjs/operator/debounceTime.js.map 1 1913 0 0
+/node_modules/rxjs/Observer.js.map 3 777 0 0
+/node_modules/rxjs/util/isPromise.js.map 3 786 0 0
+/register 13 61155 0 4
+/sellers 1 2607 0 0
+/node_modules/rxjs/scheduler/AsyncScheduler.js.map 1 1025 0 0
+/node_modules/rxjs/util/EmptyError.js.map 3 1290 0 0
+/node_modules/rxjs/Subscriber.js.map 3 17661 0 0
+/node_modules/rxjs/observable/ScalarObservable.js.map 3 4320 0 0
+/app/tasks/task-list-every-day/task-list-every-day.component.html 1 250 0 0
+/app/forms/form-controls/form-controls.component.html 5 11470 1 1
+/login 8 35895 0 0
+/node_modules/rxjs/util/isArray.js.map 2 466 0 0
+/app/nav/nav.component.html 5 1380 0 0
+/app/teams/team-list/team-list.component.js.map 1 988 0 0
+/node_modules/rxjs/SubjectSubscription.js.map 3 2934 0 0
+/node_modules/rxjs/util/toSubscriber.js.map 3 2097 0 0
+/articles 10 38401 0 2
+/node_modules/rxjs/operator/map.js.map 3 4125 0 0
+/app/teams/shared/team.service.js.map 1 1861 0 0
+/node_modules/reflect-metadata/Reflect.js.map 3 85860 0 0
+/app/forms/form-nested/form-nested.component.html 5 7545 1 1
+/node_modules/rxjs/scheduler/AsyncAction.js.map 1 3670 0 0
+/node_modules/rxjs/observable/PromiseObservable.js.map 3 8577 0 0
+/reviews/reviews.json 3 870 1 3
+/app/forms/form-nested/address.component.html 4 1948 1 0
+/passwords 2 8920 0 0
+/node_modules/rxjs/Observable.js.map 3 7893 0 0
+/node_modules/rxjs/observable/EmptyObservable.js.map 3 2541 0 0
+/player/5/edit 3 7389 0 0
+/node_modules/rxjs/observable/ArrayObservable.js.map 3 7542 0 0
+/node_modules/rxjs/util/isObject.js.map 3 672 0 0
+/player/create 15 62337 1 1
+/app/teams/shared/mock-teams.json 1 40417 0 0
+/node_modules/rxjs/operator/concatMap.js.map 3 1104 0 0
+/node_modules/rxjs/util/subscribeToResult.js.map 3 8247 0 0
+/node_modules/rxjs/Scheduler.js.map 1 653 0 0
+/app/forms/form-validation/form-validation.component.html 10 48506 1 2
+/public/ 2 4712 1 0
+/node_modules/rxjs/operator/switchMap.js.map 1 2677 0 0
+/node_modules/rxjs/operator/mergeAll.js.map 3 5601 0 0
+/node_modules/rxjs/operator/last.js.map 3 8598 0 0
+/app/main.js.map 14 3220 0 0
+/review-list/review-list.reviews.html 3 405 1 0
+/app/teams/team-detail/team-detail.component.html 1 164 0 0
+/app/tasks/task-sort/task-sort.component.html 1 295 0 0
+/app/teams/team-list/team-list.component.html 3 1257 0 0
+/node_modules/rxjs/Subject.js.map 3 12927 0 0
+/add-review/add-review.form.html 3 3729 0 1
+/worker 7 18856 1 1
+/node_modules/rxjs/util/root.js.map 2 1166 0 0
+/node_modules/rxjs/operator/filter.js.map 3 3984 0 0
+/node_modules/rxjs/symbol/observable.js.map 3 1977 0 0
+/node_modules/rxjs/operator/every.js.map 3 4812 0 0
+/node_modules/rxjs/operator/concatAll.js.map 3 924 0 0
+/app/tasks/task-list-today/task-list-today.component.html 1 319 0 1
+/app/teams/team-detail/team-detail.component.js.map 1 852 0 0
+/node_modules/rxjs/OuterSubscriber.js.map 3 1767 0 0
+/node_modules/rxjs/operator/first.js.map 3 8757 0 0
+/node_modules/rxjs/BehaviorSubject.js.map 3 3207 0 0
+/node_modules/rxjs/operator/observeOn.js.map 3 5175 0 0
+/node_modules/rxjs/operator/catch.js.map 3 4080 0 0
+/node_modules/rxjs/operator/distinctUntilChanged.js.map 1 1989 0 0
+/node_modules/rxjs/util/errorObject.js.map 2 356 0 0
+/node_modules/rxjs/observable/FromObservable.js.map 3 6768 0 0
+/node_modules/rxjs/Notification.js.map 3 7146 0 0
+END_SIDER

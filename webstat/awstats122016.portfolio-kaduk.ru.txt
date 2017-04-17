@@ -1,0 +1,460 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.portfolio-kaduk.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1998                
+POS_TIME 2670                
+POS_VISITOR 9311                
+POS_DAY 11522               
+POS_DOMAIN 3377                
+POS_LOGIN 3608                
+POS_ROBOT 3763                
+POS_WORMS 4184                
+POS_EMAILSENDER 4315                
+POS_EMAILRECEIVER 4458                
+POS_SESSION 12210               
+POS_SIDER 12389               
+POS_FILETYPES 4593                
+POS_DOWNLOADS 4790                
+POS_OS 4859                
+POS_BROWSER 5003                
+POS_SCREENSIZE 5693                
+POS_UNKNOWNREFERER 5767                
+POS_UNKNOWNREFERERBROWSER 6094                
+POS_ORIGIN 6245                
+POS_SEREFERRALS 6382                
+POS_PAGEREFS 6537                
+POS_SEARCHWORDS 7108                
+POS_KEYWORDS 7404                
+POS_MISC 2334                
+POS_ERRORS 7607                
+POS_CLUSTER 3464                
+POS_SIDER_404 7731                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170101045000 1 0 10313243748981
+FirstTime 20161201010830
+LastTime 20161231154635
+LastUpdate 20170101050316 1 0 0 0 0
+TotalVisits 109                 
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 56                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 9 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 13038 10 13 44162
+1 3 3 14361 7 11 23151
+2 1 4 32938 18 19 91984
+3 24 263 4567768 2 8 12436
+4 8 9 21939 6 7 37188
+5 3 4 92870 3 4 26620
+6 1 1 2173 3 5 41872
+7 1 1 2173 2 8 73258
+8 2 2 4346 8 13 32120
+9 3 3 6519 2 6 32191
+10 2 2 4346 2 4 4147
+11 4 4 8692 2 2 5696
+12 2 2 4346 5 6 16775
+13 8 117 3207762 10 17 50926
+14 5 5 10865 3 5 26644
+15 5 5 10865 6 9 22763
+16 7 10 106281 7 12 60392
+17 21 81 940359 10 19 107338
+18 17 136 1334740 7 10 11249
+19 8 11 118571 4 8 25828
+20 4 7 14558 3 3 12848
+21 13 191 3583621 5 7 11472
+22 11 120 3214281 17 19 161300
+23 6 6 13038 6 8 41452
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 165 993 17330450
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+mj12bot 21 46797 20161229233553 6
+bot[\s_+:,\.\;\/\\-] 14 36326 20161230082727 1
+yandex 11 264 20161219180909 11
+[\s_+:,\.\;\/\\-]bot 8 23288 20161205020200 1
+no_user_agent 4 4394 20161224105956 2
+wget 2 2197 20161231215934 1
+googlebot 1 2173 20161218100203 0
+unknown 1 0 20161205163424 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 39 111410 0 0
+png 80 10712176 0 0
+html 154 378112 0 0
+js 700 4674039 0 0
+jpg 9 1275036 0 0
+Unknown 7 18009 0 0
+json 4 161668 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 23 0 528
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+macosx 5
+linuxandroid 1
+winlong 6
+winxp 3
+win2003 2
+winnt 118
+Unknown 26
+linux 277
+winvista 10
+win7 545
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 37
+chrome37.0.2062.124 1
+msie6.0 1
+firefox28.0 2
+firefox5.0 1
+firefox3.6 1
+firefox44.0 2
+chrome48.0.2564.116 2
+firefox4.0 1
+chrome31.0.1650.57 2
+curl 1
+firefox49.0 1
+opera9.80 2
+chrome15.0.874.121 1
+chrome34.0.1847.132 4
+firefox43.0 18
+chrome37.0.2062.120 3
+chrome55.0.2883.75 508
+chrome34.0.1847.116 3
+chrome27.0.1453 243
+chrome43.0.2357.93 1
+safari8.0 1
+chrome49.0.2623.112 5
+Unknown 23
+firefox27.0 1
+chrome39.0.2171.71 2
+chrome55.0.2883.87 8
+chrome53.0.2785.143 24
+firefox3.6.2 1
+chrome54.0.2840.99 115
+chrome43.0.2357.132 1
+chrome41.0.2227.1 2
+firefox33.0 3
+mozilla 2
+netscape5.0 2
+chrome37.0.2124.98 1
+firefox3.6.3 1
+chrome41.0.2228.0 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_U;_AnyEvent-HTTP/2.23;__http://software.schmorp.de/pkg/AnyEvent) 20161216171222
+Go-http-client/1.1 20161230041822
+Go_1.1_package_http 20161230195257
+GuzzleHttp/6.1.0_curl/7.35.0_PHP/5.5.9-1ubuntu4.14 20161222140018
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20161230041822
+Go_1.1_package_http 20161230195257
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 78 81
+From1 0 0
+From2 1 1
+From3 67 883
+From4 19 28
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://payment-forms.portfolio-kaduk.ru/form-validation 24 323
+http://yougotanewdomain.com 18 18
+http://team-story.portfolio-kaduk.ru 16 447
+http://work-book.portfolio-kaduk.ru 5 46
+http://kolxos.net/forum/game419043.html 1 1
+http://pizza-imperia.com 1 1
+http://burger-imperia.com 1 1
+http://hundejo.com 1 1
+http://plug.portfolio-kaduk.ru 0 28
+http://launch-page.portfolio-kaduk.ru 0 14
+http://chat.portfolio-kaduk.ru 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+\xd0\x9f\xd0\xa0\xd0\x9e\xd0\x94\xd0\x90\xd0\x9c-\xd0\x91\xd0\x90\xd0\x97\xd0\xa3-\xd0\xa1\xd0\x90\xd0\x99\xd0\xa2\xd0\x90-portfolio-kaduk.ru 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+\xd0\x9f\xd0\xa0\xd0\x9e\xd0\x94\xd0\x90\xd0\x9c-\xd0\x91\xd0\x90\xd0\x97\xd0\xa3-\xd0\xa1\xd0\x90\xd0\x99\xd0\xa2\xd0\x90-portfolio-kaduk.ru 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 6 17352
+500 12 9084
+404 121 786026
+301 2 653
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 47
+/sqlibak.php 1 -
+/ 17 http://forum.portfolio-kaduk.ru/
+/sitemap.xml 1 -
+/robots.txt 7 -
+/bikeshop/images/r4.jpg 1 -
+/wp-content/plugins/wp-cache.php 1 -
+/functions.php 1 -
+/user 2 -
+/admin.php 6 -
+/wp-content/plugins/myshe.php 1 -
+/.git/HEAD 1 -
+/administrator/includes/readmy.php 1 -
+/user/login 2 -
+/bikeshop/images/bik2.jpg 1 -
+/maill.php 1 -
+/wp-includes/class-comments.php 1 -
+/hetlerx.php 1 -
+/css/custom.css 3 http://plug.portfolio-kaduk.ru/
+/tmp.php 1 -
+/blog 1 http://portfolio-kaduk.ru/blog/
+/form-validation 29 http://www.google.com/search
+/license.php 2 -
+/main/ico/favicon.png 3 http://portfolio-kaduk.ru/
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/bikeshop/images/bik1.jpg 1 -
+/infos.php 1 -
+/bikeshop/images/bik4.jpg 1 -
+/news.php 1 -
+/wp-cache.php 1 -
+/administrator/index.php 3 -
+/bikeshop/images/bik6.jpg 1 -
+/images/google-assist.php 1 -
+/bikeshop/images/r2.jpg 1 -
+/happy-man-icon-64-185948.png 3 http://portfolio-kaduk.ru/
+/configurationbak.php 1 -
+/bikeshop/images/logo2.png 1 -
+/bikeshop/images/logo.png 1 -
+/includes.php 1 -
+/bikeshop/images/bik5.jpg 1 -
+/images/xxx.php 1 -
+/administrator 2 -
+/bikeshop/images/s2.jpg 2 -
+/bikeshop/images/r3.jpg 1 -
+/bikeshop/images/r1.jpg 1 -
+/wp-main.php 1 -
+/wp-login.php 6 -
+/manager 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 56
+178.76.228.25 37 508 11690136 20161206211256
+66.23.241.141 18 18 39114 20161229232426
+66.102.9.62 7 92 590193 20161203212632
+66.102.9.34 7 67 408228 20161203212632
+94.243.70.134 6 9 105611 20161205172225
+99.244.11.167 5 114 3201243 20161206225339
+178.76.228.165 5 22 604848 20161226193042
+79.140.159.85 5 5 10865 20161230222331
+91.189.112.7 4 4 8692 20161231154635
+91.107.109.169 4 4 8692 20161230041822
+177.54.51.210 1 1 2173 20161209072230
+82.146.63.123 2 2 4346 20161208162429
+188.166.61.208 1 1 2173 20161216171222
+82.146.58.161 1 1 2173 20161211043249
+104.45.18.178 1 1 1193 20161201010830
+148.251.1.147 1 1 2173 20161211141833
+213.159.215.102 1 1 2173 20161229032054
+91.210.147.64 1 1 2173 20161216122458
+195.54.214.174 2 2 4346 20161210092128
+91.79.21.51 2 2 4346 20161208042456
+185.22.172.183 1 1 2173 20161211133018
+5.45.85.67 1 1 2173 20161220173358
+134.249.159.113 0 3 91070 
+91.78.26.189 1 1 2173 20161223001956
+94.228.243.75 1 1 2173 20161204160723
+62.109.24.115 1 1 2173 20161226031820
+46.0.193.128 1 1 2173 20161218015804
+92.63.99.19 1 1 2173 20161222211732
+91.210.146.229 1 1 2173 20161225153236
+176.9.50.43 1 1 2173 20161229233118
+185.87.193.15 2 2 4346 20161209201307
+37.46.128.186 1 1 2173 20161216051354
+93.80.255.251 1 1 2173 20161230220119
+46.48.13.161 1 1 2173 20161230150338
+80.93.176.98 1 1 2173 20161204213853
+37.46.128.41 2 2 4346 20161209232220
+82.146.57.90 4 4 8692 20161227185730
+92.63.99.123 3 3 6519 20161230195257
+94.23.75.242 1 1 2173 20161228164331
+91.122.53.173 1 1 2173 20161228185537
+188.166.77.37 1 1 2173 20161211190036
+83.149.25.67 3 3 6519 20161204031124
+148.251.48.178 1 1 2173 20161222140018
+66.102.9.37 4 84 427017 20161203212632
+23.101.61.176 1 1 10995 20161205181312
+178.217.187.39 2 2 4346 20161216090103
+91.78.242.177 2 2 4346 20161215145726
+89.187.142.208 1 1 2173 20161202104737
+91.77.24.124 2 2 4346 20161203170528
+149.202.127.215 1 1 2173 20161214230632
+83.217.27.244 2 2 4346 20161220050947
+212.86.102.248 2 2 4346 20161216153136
+95.181.179.177 1 1 2173 20161208004909
+54.80.114.41 1 1 2173 20161228114022
+193.124.113.204 1 1 2173 20161205163421
+82.146.58.176 3 3 6519 20161219163131
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161201 7 84 496849 5
+20161202 8 82 469237 6
+20161203 10 84 473583 6
+20161204 5 5 10865 3
+20161205 17 51 1340448 7
+20161206 36 602 14268917 7
+20161208 4 4 8692 3
+20161209 5 5 10865 5
+20161210 4 4 8692 3
+20161211 6 6 13038 6
+20161212 3 3 6519 3
+20161213 2 2 4346 2
+20161214 1 1 2173 1
+20161215 5 5 10865 4
+20161216 6 6 13038 5
+20161217 4 4 8692 4
+20161218 4 4 8692 4
+20161219 2 2 4346 2
+20161220 3 3 6519 3
+20161221 2 2 4346 2
+20161222 2 2 4346 2
+20161223 2 2 4346 2
+20161224 5 5 10865 5
+20161225 1 1 2173 1
+20161226 5 8 103230 2
+20161227 3 3 6519 3
+20161228 3 3 6519 3
+20161229 4 4 8692 4
+20161230 5 5 10865 5
+20161231 1 1 2173 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30s-2mn 1
+0s-30s 106
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 113 335973 98 92
+/app/app.component.html 9 886 2 2
+/app/teams/shared/mock-teams.json 4 161668 0 3
+/app/forms/form-validation/form-validation.component.html 4 19384 2 3
+/app/forms/form-controls/form-controls.component.html 4 9176 1 1
+/app/teams/team-detail/team-detail.component.html 4 656 0 0
+/app/forms/form-nested/form-nested.component.html 4 6036 3 1
+/app/forms/form-nested/address.component.html 4 1948 2 1
+/app/nav/nav.component.html 4 1104 1 3
+/app/teams/team-list/team-list.component.html 4 1676 0 0
+/sellers/2 3 7614 0 2
+/app/tasks/task-form/task-form.component.html 1 409 0 0
+/sellers/1 1 2512 0 0
+/worker 1 2669 0 0
+/sellers 2 5214 0 0
+/app/tasks/task-list-today/task-list-today.component.html 1 319 0 1
+/app/tasks/task-list-every-day/task-list-every-day.component.html 1 250 0 0
+/app/tasks/task-sort/task-sort.component.html 1 295 0 0
+END_SIDER

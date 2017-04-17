@@ -1,0 +1,428 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.portfolio-kaduk.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1998                
+POS_TIME 2669                
+POS_VISITOR 8333                
+POS_DAY 10809               
+POS_DOMAIN 3375                
+POS_LOGIN 3605                
+POS_ROBOT 3760                
+POS_WORMS 4256                
+POS_EMAILSENDER 4387                
+POS_EMAILRECEIVER 4530                
+POS_SESSION 11496               
+POS_SIDER 11697               
+POS_FILETYPES 4665                
+POS_DOWNLOADS 4805                
+POS_OS 4874                
+POS_BROWSER 5015                
+POS_SCREENSIZE 5635                
+POS_UNKNOWNREFERER 5709                
+POS_UNKNOWNREFERERBROWSER 6220                
+POS_ORIGIN 6386                
+POS_SEREFERRALS 6527                
+POS_PAGEREFS 6682                
+POS_SEARCHWORDS 7103                
+POS_KEYWORDS 7255                
+POS_MISC 2333                
+POS_ERRORS 7314                
+POS_CLUSTER 3461                
+POS_SIDER_404 7427                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301023029 1 0 9820848281811
+FirstTime 20170201040410
+LastTime 20170228222643
+LastUpdate 20170301030342 1 0 0 0 0
+TotalVisits 246                 
+TotalUnique 63                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 63                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 17384 4 4 22012
+1 13 13 28991 4 5 13738
+2 13 13 28249 11 13 28128
+3 9 9 19557 1 2 2197
+4 15 15 32595 17 19 81813
+5 12 12 26818 7 8 37270
+6 7 7 15211 5 6 45878
+7 8 8 17384 17 19 118592
+8 9 9 19557 5 9 10865
+9 10 10 22472 0 0 0
+10 7 7 15211 0 0 0
+11 5 5 10865 0 0 0
+12 29 41 447614 5 12 101465
+13 9 9 19557 1 1 2868
+14 8 11 109196 1 4 33559
+15 25 43 613130 1 12 108494
+16 12 15 117146 3 5 52310
+17 23 35 345008 1 11 106793
+18 14 20 215530 7 9 18617
+19 9 9 19557 10 11 35561
+20 7 7 15211 5 8 11167
+21 15 15 34079 5 6 14015
+22 16 16 35510 5 7 38762
+23 17 17 36941 20 22 115593
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 300 354 2262773
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+yandex 26 49773 20170227064810 11
+bot[\s_+:,\.\;\/\\-] 14 36326 20170227042628 1
+crawl 14 42028 20170215235739 1
+[\s_+:,\.\;\/\\-]bot 9 25461 20170215040233 1
+no_user_agent 4 6519 20170225024447 0
+archive\.org_bot 4 4394 20170206022444 2
+mj12bot 4 4394 20170219181037 2
+favicon 2 4346 20170225181451 0
+python 1 2173 20170214082438 0
+unknown 1 24 20170223071129 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 20 91100 0 0
+html 278 621634 0 0
+js 34 1470755 0 0
+Unknown 22 79284 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 19 0 456
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+winxp 6
+winlong 5
+winnt 15
+win2000 1
+linuxubuntu 7
+linux 27
+winvista 5
+win7 85
+macosx 14
+Unknown 189
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 34
+msie6.0 3
+chrome29.0.1547.57 1
+chrome41.0.2225.0 2
+firefox44.0 2
+chrome48.0.2564.116 3
+chrome56.0.2924.87 70
+chrome31.0.1650.57 2
+curl 2
+firefox34.0 2
+opera9.80 1
+msie8.0 1
+chrome37.0.2062.120 10
+chrome51.0.2704.84 5
+firefox41.0 1
+chrome55.0.2883.95 1
+chrome49.0.2623.112 1
+Unknown 27
+firefox50.0 2
+chrome32.0.1667.0 1
+firefox48.0 2
+msie5.01 1
+chrome55.0.2883.87 15
+safari9.0.3 4
+chrome53.0.2785.143 17
+firefox3.6.2 1
+chrome17.0.963.66 1
+chrome46.0.2490.71 2
+chrome54.0.2840.71 1
+firefox33.0 1
+mozilla 162
+netscape5.0 2
+chrome48.0.2564.109 3
+safari5.1 4
+firefox3.6.3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(Android_4.4;_Mobile;_rv:41.0)_Gecko/41.0_Firefox/41.0 20170217213846
+curl/7.26.0 20170202234638
+Mozilla/5.0_(compatible;_U;_DataMiner/3.14;__http://ramillion.com) 20170228222643
+bot 20170219093538
+Mozilla/5.0_(compatible) 20170215005106
+}__test|O:21:\ 20170226232711
+Go_1.1_package_http 20170228214228
+Mozilla/5.0 20170218071155
+curl/7.35.0 20170215174513
+Mozilla/3.0_(compatible;_Indy_Library) 20170211150629
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+bot 20170219093538
+}__test|O:21:\ 20170226232711
+Go_1.1_package_http 20170228214228
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 70
+From1 15 15
+From2 1 1
+From3 167 167
+From4 47 101
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://ramillion.com 155 155
+http://kolxos.net/www.portfolio-kaduk.ru 5 5
+http://8pw.ru/www.portfolio-kaduk.ru 2 2
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+https://8pw.ru/www.portfolio-kaduk.ru 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+500 20 14383
+404 83 807594
+301 7 2282
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 21
+/ 8 http://forum.portfolio-kaduk.ru/
+/user 2 http://portfolio-kaduk.ru/user
+/wp//wp-login.php 1 -
+/admin.php 9 -
+/wp-includes/version.php 1 -
+/administrator/index.php 5 -
+/happy-man-icon-64-185948.png 17 http://portfolio-kaduk.ru/
+//wp-login.php 1 -
+/readme.html 1 -
+/admin 2 -
+/blog/xmlrpc.php 1 -
+/license.txt 1 -
+/administrator 1 -
+/wordpress//wp-login.php 1 -
+/blog//wp-login.php 1 -
+/xmlrpc.php 1 -
+/blog 3 http://portfolio-kaduk.ru/blog/
+/wp-login.php 10 -
+/main/ico/favicon.png 15 http://portfolio-kaduk.ru/
+/wp-config.php 1 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 63
+62.65.39.20 155 155 342009 20170228222643
+178.76.228.165 25 64 1182419 20170227180242
+213.138.68.218 17 23 239398 20170227123717
+188.163.6.27 8 8 17384 20170226232711
+46.48.13.161 7 7 15211 20170226023927
+91.189.112.7 7 7 15211 20170227131420
+77.37.212.28 5 5 10865 20170216044028
+82.146.58.161 4 4 8692 20170223203057
+37.46.128.41 4 4 8692 20170221165758
+195.210.173.194 4 7 100196 20170222152312
+46.4.56.88 1 1 2173 20170219035935
+88.99.141.3 1 1 2173 20170204174332
+79.140.159.27 1 1 2173 20170201150544
+82.146.63.123 2 2 4346 20170208021343
+176.10.99.209 1 1 2173 20170222082916
+213.159.215.102 2 2 5088 20170227182037
+178.76.228.25 2 8 186486 20170202123526
+37.46.133.249 1 1 2173 20170210164001
+5.9.147.101 2 2 4346 20170207031303
+178.165.71.237 1 1 2173 20170203193654
+146.185.164.24 1 1 2173 20170217222430
+89.110.5.53 1 1 2173 20170210131236
+37.1.61.123 1 1 2173 20170212233038
+54.179.183.110 1 1 2173 20170212220608
+62.109.27.164 1 1 2173 20170226020054
+62.109.26.168 1 1 2173 20170220162229
+91.201.55.91 1 1 2173 20170206161435
+91.76.184.90 2 2 4346 20170204220546
+37.9.100.227 1 1 2173 20170215174513
+185.188.182.230 1 1 2173 20170224180002
+109.87.36.111 1 1 2173 20170208143806
+194.67.208.50 1 1 2173 20170215005106
+5.18.201.215 2 2 4346 20170220034253
+54.224.214.69 1 1 2173 20170214020433
+62.109.24.115 1 1 2915 20170228214228
+92.63.99.19 1 1 2173 20170225000944
+212.33.255.53 1 1 2173 20170215040235
+46.119.148.64 1 1 2173 20170208181958
+109.86.16.210 1 1 2173 20170202234638
+95.211.216.24 1 1 2173 20170202155559
+188.163.80.197 1 1 2173 20170213050021
+82.146.62.80 1 1 2173 20170216210748
+37.46.128.186 1 1 2173 20170214040956
+93.120.201.70 2 2 4346 20170205125846
+91.210.147.242 1 1 2173 20170207195258
+82.146.57.90 1 1 2173 20170217213156
+91.210.146.8 1 1 2173 20170213024813
+45.55.58.241 1 1 2173 20170219093538
+109.86.71.234 1 1 2173 20170206104504
+92.63.99.123 2 2 4346 20170206004824
+79.58.169.181 1 1 2173 20170216052547
+78.109.23.1 1 1 2173 20170216044909
+91.122.53.173 1 1 2173 20170226154141
+93.158.215.55 1 1 2173 20170211150629
+88.198.93.217 1 1 2173 20170217213846
+79.137.85.189 1 1 2173 20170226013635
+91.107.105.132 1 1 2173 20170210052503
+109.236.86.17 1 1 2173 20170223071128
+217.12.210.57 2 2 4346 20170226010719
+195.211.103.245 2 2 4346 20170213003648
+178.62.4.246 2 2 4346 20170218071155
+163.172.223.200 1 1 2173 20170226225216
+52.62.138.137 1 1 2173 20170220221728
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20170201 6 6 13038 6
+20170202 13 19 210389 11
+20170203 9 9 19557 9
+20170204 12 12 26076 11
+20170205 9 9 19557 8
+20170206 10 10 21730 10
+20170207 8 8 17384 8
+20170208 11 11 23903 11
+20170209 6 6 13038 6
+20170210 9 9 19557 9
+20170211 10 13 112800 10
+20170212 11 11 23903 10
+20170213 10 10 21730 10
+20170214 7 7 15211 7
+20170215 9 9 19557 9
+20170216 12 12 26076 11
+20170217 10 10 21730 10
+20170218 7 7 15211 7
+20170219 7 7 15211 7
+20170220 9 9 19557 9
+20170221 7 7 15211 7
+20170222 21 42 695508 9
+20170223 17 20 138949 9
+20170224 7 7 15211 7
+20170225 7 7 15211 7
+20170226 19 19 41287 11
+20170227 30 51 645776 10
+20170228 7 7 20405 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 1
+0s-30s 241
+2mn-5mn 1
+30s-2mn 1
+15mn-30mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 278 621634 246 242
+/player/create 6 21606 0 2
+/places 5 20584 0 0
+/sellers/1 3 9372 0 1
+/sellers 3 8433 0 1
+/articles 2 7700 0 0
+/passwords 2 8920 0 0
+/worker 1 2669 0 0
+END_SIDER
